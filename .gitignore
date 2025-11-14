@@ -1,0 +1,19 @@
+.env
+.cache
+__pycache__/
+*.pyc
+.vscode/
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.pytest_cache/
+.tox/
+
+# Test artifacts
+.pytest_cache/
+test-results/
+*.log
